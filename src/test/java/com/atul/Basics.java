@@ -1,6 +1,7 @@
 package com.atul;
 
 import files.Payload;
+import files.Reusable_methods;
 import io.restassured.RestAssured;
 import io.restassured.path.json.JsonPath;
 import org.testng.Assert;
@@ -18,7 +19,7 @@ public class Basics {
         // then - Validate the response
 
         RestAssured.baseURI="https://rahulshettyacademy.com";
-      String response=  given().log().all().queryParam("key","qaclick123").header("Content-Type","application/json")
+        String response=  given().log().all().queryParam("key","qaclick123").header("Content-Type","application/json")
                 .body(Payload.Addplace()).when().post("maps/api/place/add/json")
                 .then().assertThat().statusCode(200).body("scope",equalTo("APP"))
                 .header("Server","Apache/2.4.52 (Ubuntu)").extract().response().asString();
@@ -26,7 +27,7 @@ public class Basics {
 
         System.out.println(response);
         JsonPath js = new JsonPath(response);// for parsing json
-       String PlaceId= js.getString("place_id");
+        String PlaceId= js.getString("place_id");
         System.out.println(PlaceId);
 
              // update place
@@ -45,10 +46,10 @@ public class Basics {
                String getplace=  given().log().all().queryParam("key","qaclick123").queryParam("place_id",PlaceId)
                          .when().get("maps/api/place/get/json")
                          .then().assertThat().log().all().statusCode(200).extract().response().asString();
-               JsonPath j1 = new JsonPath(getplace);
+             JsonPath j1=  Reusable_methods.rawtoJson(getplace);
              String actualaddress1=  j1.getString("address");
              System.out.println(actualaddress1);
-        Assert.assertEquals(actualaddress1,newAddress);
+             Assert.assertEquals(actualaddress1,newAddress);
 
 
 
