@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="816f61df-3010-43e2-a0ac-42c4d0af47ab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/atul/Complex_json_parse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/atul/Dynamic_json.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/atul/Sum_validation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/atul/static_json_from_external_file.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/atul/Jirabugtest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/files/Payload.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/files/Payload.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +41,7 @@
   "keyToString": {
     "Application.Basics.executor": "Run",
     "Application.Complex_json_parse.executor": "Run",
+    "Application.Jirabugtest.executor": "Run",
     "Application.static_json_from_external_file.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -57,9 +52,9 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.static_json_from_external_file">
-    <configuration name="Complex_json_parse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atul.Complex_json_parse" />
+  <component name="RunManager" selected="Application.Jirabugtest">
+    <configuration name="Jirabugtest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atul.Jirabugtest" />
       <module name="Rest_assured_Topics_code" />
       <extension name="coverage">
         <pattern>
@@ -131,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Jirabugtest" />
         <item itemvalue="Application.static_json_from_external_file" />
         <item itemvalue="TestNG.C:/Users/Atul/IdeaProjects/Rest_assured_Topics_code/src/test/testng.xml" />
         <item itemvalue="TestNG.Dynamic_json" />
         <item itemvalue="TestNG.Sum_validation.sumofcourses" />
-        <item itemvalue="Application.Complex_json_parse" />
       </list>
     </recent_temporary>
   </component>
