@@ -5,10 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="816f61df-3010-43e2-a0ac-42c4d0af47ab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/atul/Jirabugtest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/c/2c94798cca5ec598dff79144b0384642123032eb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/5/954e4f950b2cab02c4e45ed46936528e1881c8be" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/1/a1707b8869d68c4eaed683642d1b494a1452913c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/c/2c94798cca5ec598dff79144b0384642123032eb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/5/954e4f950b2cab02c4e45ed46936528e1881c8be" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/1/a1707b8869d68c4eaed683642d1b494a1452913c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pojo/Courses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pojo/GetCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pojo/WebAutomation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pojo/api.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pojo/mobile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/atul/OAuthTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/atul/OAuthTest_pojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/atul/Oauthtest_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,9 +57,13 @@
     "Application.Basics.executor": "Run",
     "Application.Complex_json_parse.executor": "Run",
     "Application.Jirabugtest.executor": "Run",
+    "Application.OAuthTest.executor": "Run",
+    "Application.OAuthTest_pojo.executor": "Run",
+    "Application.Oauthtest_2.executor": "Run",
     "Application.static_json_from_external_file.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "TestNG.C:/Users/Atul/IdeaProjects/Rest_assured_Topics_code/src/test/testng.xml.executor": "Run",
     "TestNG.Dynamic_json.executor": "Run",
     "TestNG.Sum_validation.sumofcourses.executor": "Run",
@@ -52,7 +71,16 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Jirabugtest">
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.atul" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.atul" />
+      <recent name="Pojo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Oauthtest_2">
     <configuration name="Jirabugtest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.atul.Jirabugtest" />
       <module name="Rest_assured_Topics_code" />
@@ -62,6 +90,39 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OAuthTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atul.OAuthTest" />
+      <module name="Rest_assured_Topics_code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atul.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OAuthTest_pojo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atul.OAuthTest_pojo" />
+      <module name="Rest_assured_Topics_code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atul.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Oauthtest_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atul.Oauthtest_2" />
+      <module name="Rest_assured_Topics_code" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -79,58 +140,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/Users/Atul/IdeaProjects/Rest_assured_Topics_code/src/test/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Rest_assured_Topics_code" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/testng.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Dynamic_json" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Rest_assured_Topics_code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.atul.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.atul" />
-      <option name="MAIN_CLASS_NAME" value="com.atul.Dynamic_json" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Sum_validation.sumofcourses" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Rest_assured_Topics_code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.atul.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.atul" />
-      <option name="MAIN_CLASS_NAME" value="com.atul.Sum_validation" />
-      <option name="METHOD_NAME" value="sumofcourses" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Oauthtest_2" />
+        <item itemvalue="Application.OAuthTest_pojo" />
+        <item itemvalue="Application.OAuthTest" />
         <item itemvalue="Application.Jirabugtest" />
         <item itemvalue="Application.static_json_from_external_file" />
-        <item itemvalue="TestNG.C:/Users/Atul/IdeaProjects/Rest_assured_Topics_code/src/test/testng.xml" />
-        <item itemvalue="TestNG.Dynamic_json" />
-        <item itemvalue="TestNG.Sum_validation.sumofcourses" />
       </list>
     </recent_temporary>
   </component>

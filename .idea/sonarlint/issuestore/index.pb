@@ -21,3 +21,21 @@ j
 :src/test/java/com/atul/static_json_from_external_file.java,5\a\5ab64e3f79a3f82fe9d67141c5b6e863d7b7fbaa
 W
 'src/test/java/com/atul/Jirabugtest.java,8\e\8e97add44c44124d3b52623f68dc6197d462fba6
+U
+%src/test/java/com/atul/OAuthTest.java,9\5\954e4f950b2cab02c4e45ed46936528e1881c8be
+N
+src/test/java/Oauthtest_2.java,2\c\2c94798cca5ec598dff79144b0384642123032eb
+W
+'src/test/java/com/atul/Oauthtest_2.java,a\1\a1707b8869d68c4eaed683642d1b494a1452913c
+Q
+!src/test/java/Pojo/GetCourse.java,0\3\03e913f4b0871c39ce0d071009c457bda7dfe0bc
+O
+src/test/java/Pojo/Courses.java,2\6\26c2fdaa0070966c16449458cad79c2db71533d5
+U
+%src/test/java/Pojo/WebAutomation.java,3\b\3b227cdc1a1a298e9aba89f7c2c6df11c5805ba9
+K
+src/test/java/Pojo/api.java,c\4\c468d141c63850079ae2bf2897b98621c5ebe7e1
+N
+src/test/java/Pojo/mobile.java,2\9\29b80c0fb88136f6f0faa82ccfea9de334b5d56b
+Z
+*src/test/java/com/atul/OAuthTest_pojo.java,7\9\795d60fbc08af72f9b3a21d232547ce3bbf3523a

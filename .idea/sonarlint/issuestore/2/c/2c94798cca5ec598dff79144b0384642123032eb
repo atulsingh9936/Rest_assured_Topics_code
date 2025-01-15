@@ -1,0 +1,17 @@
+
+“
+java:S1130!"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú78Ùá¯¥Æ2
+T
+java:S1135#"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8Ùá¯¥Æ2
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8Ùá¯¥Æ2
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8Ùá¯¥Æ2
+M
+java:S1128	"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Ùá¯¥Æ2
+W
+java:S1128":Remove this unused import 'io.restassured.parsing.Parser'.(ÚÌôÿ8Úá¯¥Æ2
+_
+java:S1128"=Remove this unused import 'io.restassured.response.Response'.(ä¯»ùÿÿÿÿ8Úá¯¥Æ2
+c
+java:S1128"ARemove this unused import 'io.restassured.response.ResponseBody'.(® òüÿÿÿÿ8Úá¯¥Æ2
