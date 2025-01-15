@@ -5,25 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="816f61df-3010-43e2-a0ac-42c4d0af47ab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/c/2c94798cca5ec598dff79144b0384642123032eb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/5/954e4f950b2cab02c4e45ed46936528e1881c8be" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/1/a1707b8869d68c4eaed683642d1b494a1452913c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/c/2c94798cca5ec598dff79144b0384642123032eb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/5/954e4f950b2cab02c4e45ed46936528e1881c8be" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/1/a1707b8869d68c4eaed683642d1b494a1452913c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Pojo/Courses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Pojo/GetCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Pojo/WebAutomation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Pojo/api.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Pojo/mobile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/atul/OAuthTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/atul/OAuthTest_pojo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/atul/Oauthtest_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pojo/Add_place.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pojo/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/atul/Serialization_test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/atul/Specbuildertest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/1/a1707b8869d68c4eaed683642d1b494a1452913c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/1/a1707b8869d68c4eaed683642d1b494a1452913c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/atul/Oauthtest_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/atul/Oauthtest_2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +50,7 @@
     "Application.OAuthTest.executor": "Run",
     "Application.OAuthTest_pojo.executor": "Run",
     "Application.Oauthtest_2.executor": "Run",
+    "Application.Serialization_test.executor": "Run",
     "Application.static_json_from_external_file.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -80,20 +71,7 @@
       <recent name="Pojo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Oauthtest_2">
-    <configuration name="Jirabugtest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atul.Jirabugtest" />
-      <module name="Rest_assured_Topics_code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.atul.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Specbuildertest">
     <configuration name="OAuthTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.atul.OAuthTest" />
       <module name="Rest_assured_Topics_code" />
@@ -127,8 +105,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="static_json_from_external_file" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atul.static_json_from_external_file" />
+    <configuration name="Serialization_test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atul.Serialization_test" />
+      <module name="Rest_assured_Topics_code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atul.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Specbuildertest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atul.Specbuildertest" />
       <module name="Rest_assured_Topics_code" />
       <extension name="coverage">
         <pattern>
@@ -142,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Specbuildertest" />
+        <item itemvalue="Application.Serialization_test" />
         <item itemvalue="Application.Oauthtest_2" />
         <item itemvalue="Application.OAuthTest_pojo" />
         <item itemvalue="Application.OAuthTest" />
-        <item itemvalue="Application.Jirabugtest" />
-        <item itemvalue="Application.static_json_from_external_file" />
       </list>
     </recent_temporary>
   </component>

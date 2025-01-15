@@ -39,3 +39,13 @@ N
 src/test/java/Pojo/mobile.java,2\9\29b80c0fb88136f6f0faa82ccfea9de334b5d56b
 Z
 *src/test/java/com/atul/OAuthTest_pojo.java,7\9\795d60fbc08af72f9b3a21d232547ce3bbf3523a
+]
+-src/test/java/com/atul/Serializtion_test.java,c\9\c9dc8311f2d6fc519a59ae6ce6aee5542ce23afc
+^
+.src/test/java/com/atul/Serialization_test.java,a\5\a5ee51cacf62db20ac1055dbfe2253b7a70523b9
+Q
+!src/test/java/Pojo/Add_place.java,1\c\1c253e32e0969c12c66d2e6e51a0999619c887c0
+P
+ src/test/java/Pojo/Location.java,0\5\05764cf1168c4649221f724842c5895961d7091b
+[
++src/test/java/com/atul/Specbuildertest.java,f\f\ff2a7179a57912aedf6e1d3c5e7c3f444a3e24ce

@@ -7,7 +7,10 @@ import Pojo.GetCourse;
 import Pojo.WebAutomation;
 import Pojo.api;
 import io.restassured.path.json.JsonPath;
+import org.testng.Assert;
 
+import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 
@@ -16,6 +19,8 @@ public class Oauthtest_2 {
 
 
     public static void main(String[] args) throws InterruptedException {
+
+        String[] CourseTitles = {"Selenium Webdriver Java","Cypress","Protractor",};
 
 // TODO Auto-generated method stub
 
@@ -74,11 +79,17 @@ public class Oauthtest_2 {
          }
 
      }
+        ArrayList<String> a = new ArrayList<String>();
+
 
      List<WebAutomation> webAutomation  =  gc.getCourses().getWebAutomation();
      for( int i=0;i<webAutomation.size();i++){
-         System.out.println(webAutomation.get(i).getCourseTitle()+":"+webAutomation.get(i).getPrice());
+       a.add(  webAutomation.get(i).getCourseTitle());
      }
+
+      List<String> expectedlist = Arrays.asList(CourseTitles);
+        Assert.assertTrue(a.equals(expectedlist));
+
 
 
 
