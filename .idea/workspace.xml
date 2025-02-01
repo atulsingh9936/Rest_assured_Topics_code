@@ -5,23 +5,93 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="816f61df-3010-43e2-a0ac-42c4d0af47ab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Pojo/Login_request.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Pojo/Login_response.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Pojo/Orders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Pojo/orderdetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/atul/E_Commerce_Api_test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/c/2c94798cca5ec598dff79144b0384642123032eb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/7/779bc8a8d44867633dd9d1ee707979a794c82310" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/5/954e4f950b2cab02c4e45ed46936528e1881c8be" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/5/954e4f950b2cab02c4e45ed46936528e1881c8be" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/1/a1707b8869d68c4eaed683642d1b494a1452913c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/1/a1707b8869d68c4eaed683642d1b494a1452913c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a5ee51cacf62db20ac1055dbfe2253b7a70523b9" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a5ee51cacf62db20ac1055dbfe2253b7a70523b9" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/9/c9dc8311f2d6fc519a59ae6ce6aee5542ce23afc" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/OAuth/OAuthTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/file/Graphql.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/3/03e913f4b0871c39ce0d071009c457bda7dfe0bc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/5/05764cf1168c4649221f724842c5895961d7091b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/9/09471c77427282d3f3f24912cad9441ae77032ed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/c/1c253e32e0969c12c66d2e6e51a0999619c887c0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/6/26c2fdaa0070966c16449458cad79c2db71533d5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/9/29b80c0fb88136f6f0faa82ccfea9de334b5d56b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/9/3915c56f5b7b388bfe48c474d5696f7a1782c11c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/b/3b227cdc1a1a298e9aba89f7c2c6df11c5805ba9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/3/539d6568616f797eb5ff85a4d42f55f37bc8a836" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/6/5654b5857f602094491cb587f0a5b14f5e319352" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/a/5ab64e3f79a3f82fe9d67141c5b6e863d7b7fbaa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/9/795d60fbc08af72f9b3a21d232547ce3bbf3523a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/d/7d16de1069acc6b7e2ad438563604739bd577845" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/4/84406cce41c6aad2cb7469ff05561744a7c32e3e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8e97add44c44124d3b52623f68dc6197d462fba6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/5/954e4f950b2cab02c4e45ed46936528e1881c8be" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9fdd62cf035159bd860e26933ed0b2d1e88af533" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/1/a1707b8869d68c4eaed683642d1b494a1452913c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a5ee51cacf62db20ac1055dbfe2253b7a70523b9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/7/b7faa0ac74a8e6c004e977b9f0e93eede0a3da5d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/4/c468d141c63850079ae2bf2897b98621c5ebe7e1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/b/cb9a3a23748ac613b3c90a29fc7b9c31840bc036" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/0/d0af29e8dfe4ce580148ee2c197e2dd1496fca8f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/f/df2f823fa0d5b3f667336223095fbdebcdb04177" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/7/f7f0e55b8521660623012bd9c20a334506f8ae61" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/f/ff2a7179a57912aedf6e1d3c5e7c3f444a3e24ce" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/c/2c94798cca5ec598dff79144b0384642123032eb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/7/779bc8a8d44867633dd9d1ee707979a794c82310" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/9/c9dc8311f2d6fc519a59ae6ce6aee5542ce23afc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/3/03e913f4b0871c39ce0d071009c457bda7dfe0bc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/5/05764cf1168c4649221f724842c5895961d7091b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/9/09471c77427282d3f3f24912cad9441ae77032ed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/c/1c253e32e0969c12c66d2e6e51a0999619c887c0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/6/26c2fdaa0070966c16449458cad79c2db71533d5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/9/29b80c0fb88136f6f0faa82ccfea9de334b5d56b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/9/3915c56f5b7b388bfe48c474d5696f7a1782c11c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/b/3b227cdc1a1a298e9aba89f7c2c6df11c5805ba9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/3/539d6568616f797eb5ff85a4d42f55f37bc8a836" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/6/5654b5857f602094491cb587f0a5b14f5e319352" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/a/5ab64e3f79a3f82fe9d67141c5b6e863d7b7fbaa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/9/795d60fbc08af72f9b3a21d232547ce3bbf3523a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/d/7d16de1069acc6b7e2ad438563604739bd577845" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/4/84406cce41c6aad2cb7469ff05561744a7c32e3e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/e/8e97add44c44124d3b52623f68dc6197d462fba6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/5/954e4f950b2cab02c4e45ed46936528e1881c8be" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/f/9fdd62cf035159bd860e26933ed0b2d1e88af533" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/1/a1707b8869d68c4eaed683642d1b494a1452913c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/5/a5ee51cacf62db20ac1055dbfe2253b7a70523b9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/7/b7faa0ac74a8e6c004e977b9f0e93eede0a3da5d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/4/c468d141c63850079ae2bf2897b98621c5ebe7e1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/b/cb9a3a23748ac613b3c90a29fc7b9c31840bc036" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/0/d0af29e8dfe4ce580148ee2c197e2dd1496fca8f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/f/df2f823fa0d5b3f667336223095fbdebcdb04177" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/7/f7f0e55b8521660623012bd9c20a334506f8ae61" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/f/ff2a7179a57912aedf6e1d3c5e7c3f444a3e24ce" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atul/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pojo/Add_place.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Pojo/Add_place.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pojo/Courses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Pojo/Courses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pojo/GetCourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Pojo/GetCourse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pojo/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Pojo/Location.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pojo/Login_request.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Pojo/Login_request.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pojo/Login_response.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Pojo/Login_response.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pojo/Orders.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Pojo/Orders.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pojo/WebAutomation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Pojo/WebAutomation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pojo/api.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Pojo/api.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pojo/mobile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Pojo/mobile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pojo/orderdetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/Pojo/orderdetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/atul/Basics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/atul/Basics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/atul/Complex_json_parse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/atul/Complex_json_parse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/atul/Dynamic_json.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/atul/Dynamic_json.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/atul/E_Commerce_Api_test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/atul/E_Commerce_Api_test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/atul/Jirabugtest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/atul/Jirabugtest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/atul/OAuthTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/atul/OAuthTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/atul/OAuthTest_pojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/atul/OAuthTest_pojo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/atul/Oauthtest_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/atul/Oauthtest_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/atul/Serialization_test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/atul/Serialization_test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/atul/Specbuildertest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/atul/Specbuildertest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/atul/Sum_validation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/atul/Sum_validation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/atul/static_json_from_external_file.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/atul/static_json_from_external_file.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/files/Payload.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/files/Payload.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/files/Reusable_methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/files/Reusable_methods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/test/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,29 +120,46 @@
     <option name="openDirectoriesWithSingleClick" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Basics.executor": "Run",
-    "Application.Complex_json_parse.executor": "Run",
-    "Application.E_Commerce_Api_test.executor": "Run",
-    "Application.Jirabugtest.executor": "Run",
-    "Application.OAuthTest.executor": "Run",
-    "Application.OAuthTest_pojo.executor": "Run",
-    "Application.Oauthtest_2.executor": "Run",
-    "Application.Serialization_test.executor": "Run",
-    "Application.Specbuildertest.executor": "Run",
-    "Application.static_json_from_external_file.executor": "Run",
-    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "TestNG.C:/Users/Atul/IdeaProjects/Rest_assured_Topics_code/src/test/testng.xml.executor": "Run",
-    "TestNG.Dynamic_json.executor": "Run",
-    "TestNG.Sum_validation.sumofcourses.executor": "Run",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Basics.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Complex_json_parse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E_Commerce_Api_test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Graphql.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Jirabugtest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OAuthTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OAuthTest_pojo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Oauthtest_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Serialization_test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Specbuildertest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.atul.Basics.executor&quot;: &quot;Run&quot;,
+    &quot;Application.static_json_from_external_file.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.src.java.com.atul in Rest_assured_Topics_code.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG.C:/Users/Atul/IdeaProjects/Rest_assured_Topics_code/src/java/test/testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/Atul/IdeaProjects/Rest_assured_Topics_code/src/test/testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Dynamic_json.deleteBook.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Dynamic_json.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Sum_validation.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Sum_validation.sumofcourses.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Atul\IdeaProjects\Rest_assured_Topics_code\src" />
+      <recent name="C:\Users\Atul\IdeaProjects\Rest_assured_Topics_code\src\java" />
+      <recent name="C:\Users\Atul\IdeaProjects\Rest_assured_Topics_code\.idea" />
+      <recent name="C:\Users\Atul\IdeaProjects\Rest_assured_Topics_code\src\test\java\com" />
+      <recent name="C:\Users\Atul\IdeaProjects\Rest_assured_Topics_code\src\test" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.atul" />
     </key>
@@ -81,9 +168,35 @@
       <recent name="Pojo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.E_Commerce_Api_test">
-    <configuration name="E_Commerce_Api_test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atul.E_Commerce_Api_test" />
+  <component name="RunManager" selected="Application.OAuthTest">
+    <configuration name="Graphql" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.java.file.Graphql" />
+      <module name="Rest_assured_Topics_code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.java.file.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OAuthTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.java.OAuth.OAuthTest" />
+      <module name="Rest_assured_Topics_code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.java.OAuth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="static_json_from_external_file" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atul.static_json_from_external_file" />
       <module name="Rest_assured_Topics_code" />
       <extension name="coverage">
         <pattern>
@@ -95,8 +208,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OAuthTest_pojo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atul.OAuthTest_pojo" />
+    <configuration name="Dynamic_json" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Rest_assured_Topics_code" />
       <extension name="coverage">
         <pattern>
@@ -104,19 +216,16 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.atul" />
+      <option name="MAIN_CLASS_NAME" value="com.atul.Dynamic_json" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Oauthtest_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atul.Oauthtest_2" />
-      <module name="Rest_assured_Topics_code" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Serialization_test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atul.Serialization_test" />
+    <configuration name="Sum_validation" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Rest_assured_Topics_code" />
       <extension name="coverage">
         <pattern>
@@ -124,30 +233,22 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Specbuildertest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atul.Specbuildertest" />
-      <module name="Rest_assured_Topics_code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.atul.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="PACKAGE_NAME" value="com.atul" />
+      <option name="MAIN_CLASS_NAME" value="com.atul.Sum_validation" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.E_Commerce_Api_test" />
-        <item itemvalue="Application.Specbuildertest" />
-        <item itemvalue="Application.Serialization_test" />
-        <item itemvalue="Application.Oauthtest_2" />
-        <item itemvalue="Application.OAuthTest_pojo" />
+        <item itemvalue="Application.OAuthTest" />
+        <item itemvalue="Application.Graphql" />
+        <item itemvalue="Application.static_json_from_external_file" />
+        <item itemvalue="TestNG.Sum_validation" />
+        <item itemvalue="TestNG.Dynamic_json" />
       </list>
     </recent_temporary>
   </component>
